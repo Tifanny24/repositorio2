@@ -10,3 +10,4 @@ Se debe tener instaladas Tkinter y Messagebox
 Con el comando python nombre_del_archivo.py
 ¿En que directorio debe tener el programa?
 En el directorio AplicacionTareas
+![Captura de pantalla 2024-10-07 210131](https://github.com/user-attachments/assets/469ed840-5bf9-4623-8c47-1633440fabd2)
